@@ -1,0 +1,26 @@
+
+body {background-image: url(../images/1.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 0px ;
+    margin-right: 100px;
+    margin: 0%;
+    color: white;
+    
+  
+
+    
+    
+  }
+  
+.head{
+
+  text-align: center;
+  font-size: 70%;
+  margin-top: 10%;
+  font-family: Trebuchet MS, sans-serif;
+}
+.bottom{
+  bottom: 10px;
+  padding-top: 45%;
+}
